@@ -139,3 +139,12 @@ h1 {
   margin: 2px;
 }
 
+@media only screen and (max-width: 600px) {
+  #main {
+    position: absolute;
+    left:2%;
+    padding:5px;
+    
+  }
+}
+
