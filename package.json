@@ -2,11 +2,7 @@
   "name": "weatherapp",
   "version": "1.0.0",
   "description": "Weather App",
-<<<<<<< HEAD
-  "main": "index.js",
-=======
   "main": "index.html",
->>>>>>> c8a177ff8c7123e2f6a6514c6773da93ed378e89
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
