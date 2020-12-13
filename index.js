@@ -9,7 +9,7 @@ const searchBox = document.getElementById("input-box");
 
 searchBox.addEventListener("keypress", (e) => {
   if (e.keyCode === 13) {
-    //console.log(searchBox.value)
+    
     weatherReport(searchBox.value);
   }
 });
